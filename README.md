@@ -4,15 +4,15 @@
 
 ---
 
-## 🧑‍💼 About Me
+## 👨‍💼 About Me
 
 I’m a Full Stack Python Developer focused on building scalable web applications and practical tools using modern technologies.  
 My work includes creating REST APIs, building dynamic web interfaces, and writing clean, maintainable code.
 
-- 💻 Experienced in Python, Flask, Django, HTML, CSS, and JavaScript
-- 🔁 Strong understanding of Git, GitHub, and collaborative workflows
-- 🧠 Constantly upgrading my skills in backend development and deployment
-- 🔍 Actively open to freelance, remote projects, and collaboration opportunities
+- 💻 Experienced in Python, Flask, Django, HTML, CSS, JavaScript  
+- 🔁 Strong understanding of Git, GitHub, and collaborative workflows  
+- 🧠 Continuously learning backend, deployment, and advanced concepts  
+- 🔍 Open to freelance, remote work, and collaborative projects  
 
 ---
 
@@ -20,20 +20,20 @@ My work includes creating REST APIs, building dynamic web interfaces, and writin
 
 | Project | Description |
 |--------|-------------|
-| [💬 Rule-Based Chatbot](https://github.com/tharunlokeshu/task-8-rule-based-chatbot) | A Python chatbot using simple rule-based logic (`if-else`) |
-| [🛍️ Django Ecommerce App](https://github.com/tharunlokeshu/Django-Ecommerce) | A basic ecommerce web app with product management and login system |
-| [🖼️ Batch Image Resizer](https://github.com/tharunlokeshu/Task-7) | Resize and convert images in bulk using Python and Pillow |
-| [🏦 Bank Management System](https://github.com/tharunlokeshu/Bank-Management-system) | Console-based banking system with CRUD operations |
-| [🚆 Railway Reservation System](https://github.com/tharunlokeshu/Railway-Reservation-system) | CLI-based train ticket booking simulation in Python |
+| [💬 Rule-Based Chatbot](https://github.com/tharunlokeshu/Task-8) | A Python chatbot using simple rule-based logic (`if-else`) |
+| [🛍️ Django Ecommerce App](https://github.com/tharunlokeshu/Django-Ecommerce) | Basic ecommerce site with user login, product handling |
+| [🖼️ Batch Image Resizer](https://github.com/tharunlokeshu/Task-7) | Bulk image resize and format conversion tool using Pillow |
+| [🏦 Bank Management System](https://github.com/tharunlokeshu/Bank-Management-system) | Console banking system with CRUD functionality |
+| [🚆 Railway Reservation System](https://github.com/tharunlokeshu/Railway-Reservation-system) | Terminal-based train ticket reservation system |
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### Languages & Frameworks
+**Languages & Frameworks:**  
 `Python` · `Flask` · `Django` · `HTML` · `CSS` · `JavaScript` · `Bootstrap`
 
-### Databases & Tools
+**Databases & Tools:**  
 `SQLite` · `MySQL` · `Git` · `GitHub` · `VS Code` · `Replit`
 
 ---
@@ -47,7 +47,7 @@ My work includes creating REST APIs, building dynamic web interfaces, and writin
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tharun-lokesh-uggina)
-- 📧 Email: **tharunlokeshu@gmail.com**
+- 📧 Email: tharunlokeshu@gmail.com
 
 ---
 
