@@ -41,7 +41,6 @@ My work includes creating REST APIs, building dynamic web interfaces, and writin
 ## 📈 GitHub Stats
 
 ![Tharun’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharunlokeshu&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharunlokeshu&layout=compact)
 
 ---
 
