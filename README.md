@@ -21,7 +21,6 @@ My work includes creating REST APIs, building dynamic web interfaces, and writin
 | Project | Description |
 |--------|-------------|
 | [💬 Rule-Based Chatbot](https://github.com/tharunlokeshu/Task-8) | A Python chatbot using simple rule-based logic (if-else) |
-| [🛍 Django Ecommerce App](https://github.com/tharunlokeshu/Django-Ecommerce) | Basic ecommerce site with user login, product handling |
 | [🖼 Batch Image Resizer](https://github.com/tharunlokeshu/Task-7) | Bulk image resize and format conversion tool using Pillow |
 | [🏦 Bank Management System](https://github.com/tharunlokeshu/Bank-Management-system) | Console banking system with CRUD functionality |
 | [🚆 Railway Reservation System](https://github.com/tharunlokeshu/Railway-Reservation-system) | Terminal-based train ticket reservation system |
