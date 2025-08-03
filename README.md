@@ -20,6 +20,7 @@ My work includes creating REST APIs, building dynamic web interfaces, and writin
 
 | Project | Description |
 |--------|-------------|
+| [🏨 Hostel IQ](https://github.com/tharunlokeshu/HOSTEL-IQ) | A full-stack Hostel Helpdesk Portal with student/admin dashboards, built using Django, MySQL, and React |
 | [💬 Rule-Based Chatbot](https://github.com/tharunlokeshu/Task-8) | A Python chatbot using simple rule-based logic (if-else) |
 | [🖼 Batch Image Resizer](https://github.com/tharunlokeshu/Task-7) | Bulk image resize and format conversion tool using Pillow |
 | [🏦 Bank Management System](https://github.com/tharunlokeshu/Bank-Management-system) | Console banking system with CRUD functionality |
